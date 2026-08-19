@@ -1,4 +1,4 @@
-# 📧 Cold Email Generator
+# 📧 Cold Email Automation
 
 <img width="1920" height="820" alt="Screenshot (841)" src="https://github.com/user-attachments/assets/a94ccea7-29d1-4c18-bc48-5642f608165c" />
 
